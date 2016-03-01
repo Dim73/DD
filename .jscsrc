@@ -1,0 +1,7 @@
+{
+  "esnext": true,
+  "validateQuoteMarks": true,
+  "requireSemicolons": false,
+  "requireTrailingComma": false,
+  "disallowSpacesInCallExpression": false
+}
